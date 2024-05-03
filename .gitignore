@@ -4,3 +4,5 @@ venv
 # Any CSV files
 *.csv
 
+#IDEA files
+.idea
